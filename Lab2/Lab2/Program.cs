@@ -21,9 +21,10 @@ namespace Lab_01
             {
 
             }
-            public void Kopiujacy(int Licznik)
+            public void Kopiujacy(int Licznik,int Mianownik)
             {
                 this.Licznik = Licznik;
+                this.Mianownik = Mianownik;
             }
 
         }
