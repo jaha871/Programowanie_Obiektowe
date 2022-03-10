@@ -42,6 +42,16 @@ namespace Lab_01
                 }
             }
         
+
+            static void ZArgumentem(string Licznik, String Mianownik)
+            {
+
+            }
+            public void Kopiujacy(int Licznik)
+            {
+                this.Licznik = Licznik;
+            }
+
         }
     }
 }
