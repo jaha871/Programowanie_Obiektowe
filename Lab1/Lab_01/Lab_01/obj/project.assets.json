@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Sebastian.Halada\\source\\repos\\Lab1\\Programowanie\\Programowanie.csproj",
-      "projectName": "Programowanie",
-      "projectPath": "D:\\Users\\Sebastian.Halada\\source\\repos\\Lab1\\Programowanie\\Programowanie.csproj",
+      "projectUniqueName": "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\Lab1\\Lab_01\\Lab_01\\Lab_01.csproj",
+      "projectName": "Lab_01",
+      "projectPath": "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\Lab1\\Lab_01\\Lab_01\\Lab_01.csproj",
       "packagesPath": "D:\\Users\\Sebastian.Halada\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Sebastian.Halada\\source\\repos\\Lab1\\Programowanie\\obj\\",
+      "outputPath": "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\Lab1\\Lab_01\\Lab_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
