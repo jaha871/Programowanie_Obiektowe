@@ -17,16 +17,31 @@ namespace Lab_01
             {
 
             }
-            static void ZArgumentem(string Licznik, String Mianownik)
+            static void ZArgumentem(int Licznik, int Mianownik, string Uczen)
             {
-
+                                  
             }
             public void Kopiujacy(int Licznik,int Mianownik)
             {
                 this.Licznik = Licznik;
                 this.Mianownik = Mianownik;
             }
+            public class student
+            {
+                private string name;
 
+                    public student(String name)
+                {
+                    this.name = name;
+                }
+
+
+                public override string ToString()
+                {
+                    return $"Student: {this.name}.";
+                }
+            }
+        
         }
     }
 }
