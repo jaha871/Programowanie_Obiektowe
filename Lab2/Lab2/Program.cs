@@ -13,23 +13,24 @@ namespace Lab_01
             public int Licznik;
             public int Mianownik;
             private static int licznik;
-
+            private static int mianownik;
+            // Prywatne zmienne Licznik i Mianownik 
             public ulamek()
             {
 
             }
-           public ulamek(int Licznik, int Mianownik, string Uczen)
+            //Konstruktor domyślny bez argumentów
+            public ulamek(int Licznik, int Mianownik, string Uczen)
             {
-               
-                this.Licznik =Licznik;
-                
-                                  
+                this.Licznik = Licznik;
+                this.Mianownik = Mianownik;
             }
-            public ulamek ( ulamek licznik , ulamek mianownik , ulamek student)
+            //Konstruktor domyślny z argumentem 
+            public ulamek(ulamek licznik, ulamek mianownik, ulamek student)
             {
                 this.Licznik = ulamek.licznik;
             }
-
+            //Konstruktor kopiujący
             public class Student
             {
                 private string name;
@@ -46,7 +47,23 @@ namespace Lab_01
                     return $"Student: {this.name}.";
                 }
             }
-
-        }            
+            //Metoda ToString
+        }
+        public class Uczen : IEquatable <Uczen>
+        {
+            private string imie;
+            public Uczen(string imie)
+            {
+                this.imie = imie;
+            }
+            public bool Equals(Uczen other)
+            {
+                if (other == null) return false;
+                if (other == this) return true;
+                return object.Equals(this.imie, other.imie);
+             }
+            //Equatable
+            //IEquatable
+        }
     }
 }
