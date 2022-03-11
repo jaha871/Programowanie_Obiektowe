@@ -10,29 +10,34 @@ namespace Lab_01
         }
         class ulamek
         {
-            private int Licznik;
-            private int Mianownik;
+            public int Licznik;
+            public int Mianownik;
+            private static int licznik;
 
-            static void BezArgumentu()
+            public ulamek()
             {
 
             }
-            static void ZArgumentem(int Licznik, int Mianownik, string Uczen)
+           public ulamek(int Licznik, int Mianownik, string Uczen)
             {
+               
+                this.Licznik =Licznik;
+                
                                   
             }
-            public void Kopiujacy(int Licznik,int Mianownik)
+            public ulamek ( ulamek licznik , ulamek mianownik , ulamek student)
             {
-                this.Licznik = Licznik;
-                this.Mianownik = Mianownik;
+                this.Licznik = ulamek.licznik;
             }
-            public class student
+
+            public class Student
             {
                 private string name;
 
-                    public student(String name)
+                public Student(String name)
                 {
                     this.name = name;
+
                 }
 
 
@@ -41,17 +46,7 @@ namespace Lab_01
                     return $"Student: {this.name}.";
                 }
             }
-        
 
-            static void ZArgumentem(string Licznik, String Mianownik)
-            {
-
-            }
-            public void Kopiujacy(int Licznik)
-            {
-                this.Licznik = Licznik;
-            }
-
-        }
+        }            
     }
 }

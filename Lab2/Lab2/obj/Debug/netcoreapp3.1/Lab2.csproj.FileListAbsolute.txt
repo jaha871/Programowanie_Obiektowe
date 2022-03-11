@@ -12,3 +12,17 @@ D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\ne
 D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
 D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
 D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.AssemblyReference.cache
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+D:\Users\Sebastian.Halada\Source\Repos\jaha871\Programowanie_Obiektowe\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
