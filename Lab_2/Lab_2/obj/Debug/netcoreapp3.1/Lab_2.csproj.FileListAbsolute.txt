@@ -1,0 +1,14 @@
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
