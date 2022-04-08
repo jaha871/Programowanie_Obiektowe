@@ -1,0 +1,77 @@
+NASZ PROJEKT 
+
+GARAŻE 
+
+WIZUALNA STRONA STRONY 
+ 
+
+Garaże: 
+	[ID_Garażu] 
+
+	[Wysokość]  
+
+	[Szerokość]  
+
+	[Nazwa_Garażu] 
+
+	[Rodzaj_Bramy]  
+
+	[Konstrukcja] 
+
+	[Kolor] 
+
+	[Rodzaj_dachu]  
+
+	[Dodatki]  
+
+	[Cena]  
+
+	[Dostępność]  
+
+Zamówienia:  
+
+	[ID_Zamówienia] 
+
+	[ID_Garażu] 
+
+	[ID_Klienta] 
+
+	[ID_Pracownika]  
+
+	[Data_Zamówienia]  
+
+	[Cena]  
+
+	[Termin_Montażu]  
+
+	[Informacje_Dodatkowe] 
+
+	[Status_Realizacji] 
+
+ 
+
+Techniczne 
+		1. Baza danych(sql) 
+
+ Tabela lista produktów 
+
+ tabela lista zamówień 
+
+Tabela zdjęć 
+	 
+
+ 
+
+2. ORM _ wyświetlanie danych + zapis 
+
+3. Walidacja 
+
+ Dodanie +Edycja produktu (czy uzupełniono pola czy dodano min 2zdjęcia) 
+
+Wyświetlanie errorów pod polami 
+
+Walidajca danych dostawy	 
+
+Wyświetlanie errorów pod polami	 
+
+ 
