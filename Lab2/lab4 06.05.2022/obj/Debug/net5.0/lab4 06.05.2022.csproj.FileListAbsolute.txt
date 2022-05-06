@@ -1,0 +1,16 @@
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\lab4 06.05.2022.exe
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\lab4 06.05.2022.deps.json
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\lab4 06.05.2022.runtimeconfig.json
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\lab4 06.05.2022.runtimeconfig.dev.json
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\lab4 06.05.2022.dll
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\ref\lab4 06.05.2022.dll
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\bin\Debug\net5.0\lab4 06.05.2022.pdb
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.csproj.AssemblyReference.cache
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.AssemblyInfoInputs.cache
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.AssemblyInfo.cs
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.csproj.CoreCompileInputs.cache
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.dll
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\ref\lab4 06.05.2022.dll
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.pdb
+D:\Users\Sebastian.Halada\Desktop\Programowanie_Obiektowe\Lab2\lab4 06.05.2022\obj\Debug\net5.0\lab4 06.05.2022.genruntimeconfig.cache
