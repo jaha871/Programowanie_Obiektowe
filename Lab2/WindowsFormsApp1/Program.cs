@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
     }
 
 
-    static class Program
+    public class Program
     {
         public static void Main()
         {

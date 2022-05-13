@@ -28,11 +28,11 @@ namespace lab3
                 new User {Name = "Bucho" , Role = "Moderator", Age = 27},
                 new User {Name = "Adi" , Role = "Teacher" , Age = 31},
                 new User {Name = "Ewcia" , Role = "Admin" , Age = 42},
-                new User {Name = "Darek" , Role = "Student" , Age = 22, Marks = 1 },
-                new User {Name = "Adek" , Role = "Student" , Age = 21, Marks = 3},
-                new User {Name = "Marek" , Role = "Student" , Age = 20, Marks = 2 },
-                new User {Name = "Janek" , Role = "Student" , Age = 18, Marks = 5 },
-                new User {Name = "Zbyszek" , Role = "Student" , Age = 19, Marks = 4}
+                new User {Name = "Darek" , Role = "Student" , Age = 22, Marks = new int[] {  3} },
+                new User {Name = "Adek" , Role = "Student" , Age = 21,Marks = new int[] {  4} },
+                new User {Name = "Marek" , Role = "Student" , Age = 20, Marks = new int[] {  5} },
+                new User {Name = "Janek" , Role = "Student" , Age = 18, Marks = new int[] {  6} },
+                new User {Name = "Zbyszek" , Role = "Student" , Age = 19, Marks = new int[] {  2} }
             };
             //1 Zliczanie ilości 
            Console.WriteLine("Jest " + users.Count() + " użytkowników");
@@ -92,7 +92,7 @@ namespace lab3
                 Console.WriteLine(user);
             }
             //9
-            var najgorsza = users.Where(user => user.Marks is not null
+            var najgorsza = users.Where(user => user.Marks != null
             && user.Marks.Length > 0).Select(user => user.Marks.Min()).Min();
             var Najgorsza1 = (from user in users
                          where user.Marks is not null
@@ -101,7 +101,7 @@ namespace lab3
             Console.WriteLine("Zadanie 9 :" + najgorsza);
             //10
             var Maro = from User user in users
-                        where user.Marks != null && user.Marks.Length > 0
+                        where user.Marks != null && user.Marks?.Length > 0
                         orderby user.Marks.Average() descending
                         select user.Name;
             var Maro1 = users.Where(user => user.Marks != null && user.Marks.Length > 0).OrderByDescending(user => user.Marks.Average()).Select(user => user.Name);
