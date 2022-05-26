@@ -5,7 +5,7 @@ using System.Text.Json;
 using System.Xml.Serialization;
 using System.Text;
 
-namespace lab_5
+
     public class User
 {
     public int Id { get; set; }

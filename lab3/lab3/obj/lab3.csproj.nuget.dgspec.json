@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj": {}
+    "C:\\Users\\Bastek\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj": {
+    "C:\\Users\\Bastek\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj",
+        "projectUniqueName": "C:\\Users\\Bastek\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj",
         "projectName": "lab3",
-        "projectPath": "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj",
-        "packagesPath": "D:\\Users\\Sebastian.Halada\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Sebastian.Halada\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\obj\\",
+        "projectPath": "C:\\Users\\Bastek\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\lab3.csproj",
+        "packagesPath": "C:\\Users\\Bastek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bastek\\Desktop\\Programowanie_Obiektowe\\lab3\\lab3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\Sebastian.Halada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Bastek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
